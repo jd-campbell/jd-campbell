@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jacqueline (Jackie) Campbell. I am a Genet
-- 👀 I’m interested in Data manangement, Soybeans, 
+- 👋 Hi, I’m Jacqueline (Jackie) Campbell. I am a Geneticist working for the USDA. 
+- 👀 I’m interested in data manangement and organization, soybeans, gene model predictation, gene expression and anything to do with bioinformatics.
 - 👯 I'm always happy to chat anything genomes, soybeans, data management, genomics/genetics. 
-- 🌱 I’m currently learning using Jekyll to develop a modern SoyBase.org. 
+- 🌱 I’m currently learning using Jekyll to develop a modern SoyBase.org. I am always expanding my knowledge about the latest research. 
 - 💞️ I’m looking to collaborate on soybean research involving genetics, genomics and breeding. And after the publication is released I can help get the reserach data on SoyBase.org. 
 - 📫 How to reach me at work jacqueline.campbell@usda.gov 
 
