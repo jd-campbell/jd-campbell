@@ -15,14 +15,12 @@ __Soybean Genomics Workshop__
   * Using North Uniform Soybean Trail (NUST) data and it is available on [SoyBase.org](SoyBase.og) and [SoybeanBase] (https://soybeanbase.breedinginsight.net). 
   * For breeders Genomic selection (GS) can fast forward the breeding pipeline. GS saves: 4 years saved in parent section; 2 years saved in variety releases; Saves over $70,000 in land use.
   * Genomic prediction accuracy in SoyNAM variey from 20% to 50%. Genomic selection performs as effectively as phenotypic selection for increasing seed yield in soybean. [Research paper](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/tpg2.20285)
-  * Challenges for academic breeding programs: 
-  
-   Cost of genotyping. 
-   Turnaround time and Human resources (PostDocs and Graduate students + Temporary workers). 
-   Risk of failure. 
-   
+  * Challenges for academic breeding programs: Cost of genotyping; Turnaround time and Human resources (PostDocs and Graduate students + Temporary workers); Risk of failure. 
   * Efforts to help the challenges -> Database development and training material
   
+  * [SOYGEN](https://ncsrp.com/wp-content/uploads/2022/02/NCSRP-2021-Genetic-Gain.pdf): Science Optimized Yield Gains across ENvironments
+  * SOYGEN using the NUST past and present data - again available on both [SoyBase.org](SoyBase.og) and [SoybeanBase] (https://soybeanbase.breedinginsight.net). 
+  * Dara from NUST is publicly available and the phenotypic data is available on [SoyBase](https://soybase.org/ncsrp/queryportal/)
 ---
 
 4. Katy Martin Rainey: Genetic Improvement of Complex Traits in Soybean: Insights into Selection for Yield, Maturity and Seed Quality
