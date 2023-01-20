@@ -17,9 +17,9 @@ __Soybean Genomics Workshop__
   * Genomic prediction accuracy in SoyNAM variey from 20% to 50%. Genomic selection performs as effectively as phenotypic selection for increasing seed yield in soybean. [Research paper](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/tpg2.20285)
   * Challenges for academic breeding programs: 
   
-   Cost of genotyping
-   Turnaround time and Human resources (PostDocs and Graduate students + Temporary workers)
-   Risk of failure
+   Cost of genotyping. 
+   Turnaround time and Human resources (PostDocs and Graduate students + Temporary workers). 
+   Risk of failure. 
    
   * Efforts to help the challenges -> Database development and training material
   
