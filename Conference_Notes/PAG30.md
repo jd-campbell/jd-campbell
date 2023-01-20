@@ -1,18 +1,25 @@
 PAG30: Jan 13-18, 2023
 ======================
 
-[My Notes](##My-Notes)
+### [My Notes](##My-Notes)
 
-[Notes that other people took](##Notes-that-other-people-took)
+## [Notes that other people took](##Notes-that-other-people-took)
 
 ## My Notes
 
 ## January 15, 2023
 
 
+
 Jan Leach: Embracing the Complexity of the Phytobiome
 
   * There are some troublesome trends in agriculture and we scientists need to think of novel ways to help food security. Interactions with the Phytobiome are dynamic and complex. [Research paper](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.17319)
+  * To exploit the phytobiome when need to understand they system: How do plants sense stress? How do the microbes sense stress? Studies have shown that plants "cry for help" in response to stress and microbes come to the rescue. [Research paper](https://www.nature.com/articles/s41477-021-00967-1)
+  * __How do we keep going forward?__ We need to embrace the complexity! Continued advancement in technologies in culturing, prediction modeling and simulations and synthetic biology Need many tools to validate and evaluate at a large scale.
+  * Wish list:
+     - Move beyond correlation to causation - to get to the mechanism 
+     - Develop globally accepted standards for plant associate microbial #metadata
+     - Train the next generation of scientist!
 
 
 ## __Manage your Big Data Workshop__
@@ -153,5 +160,7 @@ Jan Leach: Embracing the Complexity of the Phytobiome
   * Multiple studies still finding seed quality QTLs: 
   1. POWR1 (Protein, Oil, Weight, Regulator 1) is a domestication gene pleiotropically regulating seed quality and yield in soybean [Research paper](https://www.nature.com/articles/s41467-022-30314-7)
   2. Fine mapping and cloning of the major seed protein quantitative trait loci on soybean chromosome 20 [Research paper](https://pubmed.ncbi.nlm.nih.gov/34978122/)
+  3. QTL for GmSWEET39 for oil and protein improvement [Research paper](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009114)
+
 
 ## Notes that other people took
