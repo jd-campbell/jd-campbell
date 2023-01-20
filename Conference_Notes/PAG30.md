@@ -2,13 +2,14 @@ PAG30: Jan 13-18, 2023
 ======================
 
 [My Notes](##My-Notes)
+
 [Notes that other people took](##Notes-that-other-people-took)
 
-## My Notes
+# My Notes
 
-#### January 17, 2023
+## January 17, 2023
 
-__Soybean Genomics Workshop__
+### __Soybean Genomics Workshop__
 
 1. Jianxin Ma: Rapid Evolution of Disease Resistance Genes in Soybean
 
