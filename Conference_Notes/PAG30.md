@@ -9,6 +9,31 @@ PAG30: Jan 13-18, 2023
 
 ## January 16, 2023
 
+### __Tools and Resources workshop__
+
+2. Ana Conesa: Paintomics, a Tool for the Integrative Analysis and Visualization of Multi-Omics Data
+
+  * [Website](https://www.paintomics.org)
+  * [Paper](https://academic.oup.com/nar/article/50/W1/W551/6591534?login=false)
+  * [GitHub](https://github.com/ConesaLab/paintomics4)
+  * Video tutorials available online
+
+-----
+
+3. Deborah A. Triant: MaizeMine A New Tools for Zea Mays Pangene Data Mining
+
+  * Recommend to log in because you can save the searches you conducted new data on MaizeMine from 25 NAM founder inbread lines; Pan-gene data; Search Tools; Query Builder; Create Lists.
+  * [MaizeMine](https://maizemine.rnet.missouri.edu/maizemine/begin.do) has a column manager to add and remove columns to the search output. You can same the lists you created if you make an account. MaizeMine can enrich the list you create with ontology, publication and more.
+  * You can used the save list to search the NAM lines and pan-genes in MaizeMine. Singleton Pan-gene templates can use the lists you created. When creating lists you can tag the list with keywords.
+  * MaizeMine has multiple templates for searching multiple subjects for the NAM line founders. Data on MaizeMine to free to download. The community is free to contact MaizeMine for new query templates.
+
+-----
+
+4. Raghav Kataria: Weconet A Host–Pathogen Interactome Database for Deciphering Crucial Molecular Networks of Wheat-Common Bunt Cross-Talk Mechanisms
+  * [Research paper](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-022-00897-9)
+  * [Website](http://bioinfo.usu.edu/weconet/)
+
+
 ### __Data Resource Sustainability & Funding Workshop__ 
 
 1. Kenji K. Kojima: Repbase and the transition to subscription model
