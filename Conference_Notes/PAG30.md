@@ -6,15 +6,15 @@ Table of contents
   * [My Notes](##My-Notes)
   * [Notes that other people took](##Notes-that-other-people-took)
 
-### My Notes
+## My Notes
 
 ### **January 14, 2023**
 
-## __Funding Opportunities Panel__
+### __Funding Opportunities Panel__
 
-## **January 15, 2023**
+### **January 15, 2023**
 
-## __Computational Gene Discovery workshop__
+### __Computational Gene Discovery workshop__
 
 1. __Mihaela Pertea: Efficient and Robust Transcriptome Reconstruction from Hybrid RNA-Seq Data__
 
@@ -49,7 +49,7 @@ Table of contents
   * GeneidX is easy to install using either Nextflow or Docker. Coming soon: a geneid [online portal](https://genome.crg.cat/geneid-predictions/#/)
  
 
-## __Beyond the National Plant Genome Initiative workshop__
+### __Beyond the National Plant Genome Initiative workshop__
 
 1. __Introduction__
   * The Beyond the National Plant Genome Initiative workshop is a forum for the plant genomics & genetics research community to reconnect & meet with representatives from the NSF, DOE, & USDA. 
@@ -93,7 +93,7 @@ Table of contents
      - Train the next generation of scientist!
 
 
-## __Manage your Big Data Workshop__
+### __Manage your Big Data Workshop__
 
 1. __Fiona McCarthy: __
 
@@ -106,8 +106,6 @@ Table of contents
      - Please don’t use special characters in the files.
   * [SoyURT package](https://cran.r-project.org/web/packages/SoyURT/SoyURT.pdf) and the data is available on [SoyBase.org](SoyBase.org)
 
-----
-
 3. __Chris Elsik: FAANGMine__
   * [FAANGMine](https://faangmine.elsiklab.missouri.edu)
 
@@ -119,36 +117,31 @@ Table of contents
 
   * Provides long term storage for data and code and [Ag Data Commons](https://data.nal.usda.gov) provides a DOI for ease of finding.
 
-## January 16, 2023
+### January 16, 2023
 
 ### __Tools and Resources workshop__
 
-2. Ana Conesa: Paintomics, a Tool for the Integrative Analysis and Visualization of Multi-Omics Data
+2. __Ana Conesa: Paintomics, a Tool for the Integrative Analysis and Visualization of Multi-Omics Data__
 
   * [Website](https://www.paintomics.org)
   * [Paper](https://academic.oup.com/nar/article/50/W1/W551/6591534?login=false)
   * [GitHub](https://github.com/ConesaLab/paintomics4)
   * Video tutorials available online
 
------
-
-3. Deborah A. Triant: MaizeMine A New Tools for Zea Mays Pangene Data Mining
+3. __Deborah A. Triant: MaizeMine A New Tools for Zea Mays Pangene Data Mining__
 
   * Recommend to log in because you can save the searches you conducted new data on MaizeMine from 25 NAM founder inbread lines; Pan-gene data; Search Tools; Query Builder; Create Lists.
   * [MaizeMine](https://maizemine.rnet.missouri.edu/maizemine/begin.do) has a column manager to add and remove columns to the search output. You can same the lists you created if you make an account. MaizeMine can enrich the list you create with ontology, publication and more.
   * You can used the save list to search the NAM lines and pan-genes in MaizeMine. Singleton Pan-gene templates can use the lists you created. When creating lists you can tag the list with keywords.
   * MaizeMine has multiple templates for searching multiple subjects for the NAM line founders. Data on MaizeMine to free to download. The community is free to contact MaizeMine for new query templates.
 
------
-
-4. Raghav Kataria: Weconet A Host–Pathogen Interactome Database for Deciphering Crucial Molecular Networks of Wheat-Common Bunt Cross-Talk Mechanisms
+4. __Raghav Kataria: Weconet A Host–Pathogen Interactome Database for Deciphering Crucial Molecular Networks of Wheat-Common Bunt Cross-Talk Mechanisms__
   * [Research paper](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-022-00897-9)
   * [Website](http://bioinfo.usu.edu/weconet/)
 
-
 ### __Data Resource Sustainability & Funding Workshop__ 
 
-1. Kenji K. Kojima: Repbase and the transition to subscription model
+1. __Kenji K. Kojima: Repbase and the transition to subscription model__
 
   * "Online tools are becoming ever more important to biology, but financial support is unstable." Databases are important but finding is hard to come by and maintain. [Research paper](https://www.nature.com/articles/489019a)
   * Manual curation is important to maintain to high quality database like [RepBase](girinst.org/repbase/). Increase in data, increase in users, increase in downloads *BUT* decrease in funding. Now uses a fixed subscription model similar to TAIR to maintain database funding.
@@ -158,16 +151,12 @@ Table of contents
      - Manual curation needs time and expertise and can't keep up with the pace of data generation.
   * Efforts to face these challenges:RepBase is working towards the "gold standard" for repeat datasets; Increase the number of entries in RepBase.
 
-----
-
-2. Mark Miller: Sustainability Strategies for the CIPRES Science Gateway
+2. __Mark Miller: Sustainability Strategies for the CIPRES Science Gateway__
 
   *  [CIPRES Science Gateway](https://phylo.org) was made help research get access to large HPC including Xsede. CIPRES helps researchers work on side projects by getting access to data resources. 
   *  CIPRES Science Gateway makes HPC available for biologist and research that do not have the access or expertise to complete large phylogenetic trees. [White paper](http://www.phylo.org/sub_sections/portal/sc2010_paper.pdf)
 
-----
-
-3. Eric Lyons: CyVerse's Path to Financial Sustainability
+3. __Eric Lyons: CyVerse's Path to Financial Sustainability__
 
   * CyVerse helps with every step of the data collection, data management, and data analysis. Using other resources including iRODs, Jupyter, and R. CyVerse also workshops for education.
   * After federal grant funding decreased for CyVerse - Got help from many but the main take home message was: You can not do it and Focus on your main mission.
@@ -176,9 +165,7 @@ Table of contents
      - CyVerse Professional Services
      - [CyVerse subscriptions](https://cyverse.org/subscribe)
 
-------
-
-4. Dorrie Main: Sustainability Efforts of NRSP-10 Crop Community Databases and Tripal Project
+4. __Dorrie Main: Sustainability Efforts of NRSP-10 Crop Community Databases and Tripal Project__
 
   * [NRSP-10](nrsp10.org) is another major project that has been funded by federal funding for 10 years but now funding is decreasing and need to think about other sources of funding. NRSP10 is also getting funding from the industry and commodity groups.
   * Why are Crop Community Database important
@@ -188,19 +175,17 @@ Table of contents
   * As genomic, genetic and breeding data generation grew exponentially year by year and so does the number of people that use the database. 
  
 
-## January 17, 2023
+### January 17, 2023
 
 ### __Soybean Genomics Workshop__
 
-1. Jianxin Ma: Rapid Evolution of Disease Resistance Genes in Soybean
+1. __Jianxin Ma: Rapid Evolution of Disease Resistance Genes in Soybean__
 
   * Soybean rot and stem rot causes an annual yield loss of $250 million USD and more than 1 million USD worldwide. Important to identify novel Rps because a number of known Rps genes have become partially effective or completely ineffective.
   * Rps1-k has lost resistance to the pathogen in Indiana. Using landrace #soybean for new source for resistance and IDed over 100 varieties that are resistance. And 23 soybean landraces found to be resistant to multiple pathogens.
   * PI 594527 carries an excellent resistance to P. sojae Mapped to Gm07 on Wm82. [Research paper](https://pubmed.ncbi.nlm.nih.gov/26660465/)
 
-----
-
-2. Kyung Do Kim: Development of Molecular Marker Linked to White Soybean Cyst Nematode (Heterodera sojae) Resistance in Soybean
+2. __Kyung Do Kim: Development of Molecular Marker Linked to White Soybean Cyst Nematode (Heterodera sojae) Resistance in Soybean__
 
   * GWAS studies for resistant to new cyst nematode species H. sojae (WSCN) in soybean - which is found in Korea, Japan and China. But H. glycine (SCN) is a problem around the world. [Research paper](https://apsjournals.apsnet.org/doi/full/10.1094/PHP-10-20-0094-BR)
   * Expansion of WSCN in Korea [Research paper](https://apsjournals.apsnet.org/doi/full/10.1094/PDIS-09-19-1932-SC)
@@ -208,9 +193,7 @@ Table of contents
   * For WSCN GWAS study used the Koran core soybean collection. GWAS results showed 9 significant peaks 
 6 significant SNPs found on Gm01 and candidate genes within Gm01 region expression was found in the roots. This could be a new resistance source 3 significant SNPs also found in the Rgh1 region on Gm18 [Research paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0224074)
 
----
-
-3. Aaron Lorenz: Developing Resources to advance genetic prediction soybean 
+3. __Aaron Lorenz: Developing Resources to advance genetic prediction soybean__ 
 
   * Using North Uniform Soybean Trail (NUST) data and it is available on [SoyBase.org](SoyBase.og) and [SoybeanBase] (https://soybeanbase.breedinginsight.net). 
   * For breeders Genomic selection (GS) can fast forward the breeding pipeline. GS saves
@@ -228,17 +211,13 @@ Table of contents
   * SOYGEN using the NUST past and present data - again available on both [SoyBase.org](SoyBase.og) and [SoybeanBase] (https://soybeanbase.breedinginsight.net). 
   * Data from NUST is publicly available and the phenotypic data is available on [SoyBase](https://soybase.org/ncsrp/queryportal/)
   * More info about the NUST can be found [here](https://www.ars.usda.gov/ARSUSERFILES/50200500/NUST/2020%20NUST.PDF)
-  
----
 
-4. Katy Martin Rainey: Genetic Improvement of Complex Traits in Soybean: Insights into Selection for Yield, Maturity and Seed Quality
+4. __Katy Martin Rainey: Genetic Improvement of Complex Traits in Soybean: Insights into Selection for Yield, Maturity and Seed Quality__
 
   * Using the well documented public #soybean resources at [SoyBase.org](SoyBase.org) including the SoySNP50K and SoyNAM.
   * Impact of increased sucrose content on overall seed quality in soybean Increasing sucrose content would likely lead to protein content sacrifices. Paper in review/No pre-print.
 
----
-
-5. Yong-Qiang (Charles) An:  Toward Understanding Molecular Basis of Seed Protein and Oil in Soybean Domestication and Improvement through an Integrative Data Driven Approach
+5. __Yong-Qiang (Charles) An:  Toward Understanding Molecular Basis of Seed Protein and Oil in Soybean Domestication and Improvement through an Integrative Data Driven Approach__
 
   * Introgression and/or improvements combination to increase desired traits. Embracing the BigData and integrative approach for breeding (alleles, functional markers, Germplasm) Focusing on soybean germplasm diversity
   * Multiple studies still finding seed quality QTLs: 
