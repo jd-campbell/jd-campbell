@@ -4,6 +4,7 @@ PAG30: Jan 13-18, 2023
 Table of contents
 
   * [My Notes](##My-Notes)
+     - [Funding Opportunites Panel](###Funding-Opportunites-Panel)
   * [Notes that other people took](##Notes-that-other-people-took)
 
 ## My Notes
@@ -18,45 +19,45 @@ Table of contents
 
 1. __Mihaela Pertea: Efficient and Robust Transcriptome Reconstruction from Hybrid RNA-Seq Data__
 
-  * StringTie2 using hybrid (long and short read) data helps clear up messy gene calls.
-  * Hybrid data with using the annotation guide helps with the genome annotation. Simulated data shows that even using a little bit of isoseq is helpful for gene calls. [Research paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009730)
+     * StringTie2 using hybrid (long and short read) data helps clear up messy gene calls.
+     * Hybrid data with using the annotation guide helps with the genome annotation. Simulated data shows that even using a little bit of isoseq is helpful for gene calls. [Research paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009730)
 
 2. __TB: GeneMark-ETP__
 
-  * GeneMark-ETP Prediction of gene transcripts and modeling training using the high confidence genes for final gene prediction. Gene clustering is a new feature of [GeneMark-ETP](https://t.co/vN28juc0yO)
-  * GeneMark-ETP is fully automatic and utilize serval sources for prediction [Research paper](https://academic.oup.com/nargab/article/2/2/lqaa026/5836691?login=false)
+     * GeneMark-ETP Prediction of gene transcripts and modeling training using the high confidence genes for final gene prediction. Gene clustering is a new feature of [GeneMark-ETP](https://t.co/vN28juc0yO)
+     * GeneMark-ETP is fully automatic and utilize serval sources for prediction [Research paper](https://academic.oup.com/nargab/article/2/2/lqaa026/5836691?login=false)
 
 3. __Lars Gabriel: BRAKER3__
 
-  * Gene annotation is the task of finding protein coding genes and predict their gene structure using predictive and extrinsic evidence (ex. reads).
-  * BRAKER is a pipeline with three inputs: Softmasked genome, Protein database and short read data. Uses both short read data and protein data and combines the data to make a more accurate gene calls.
-  * BRAKER3 is available on [Github](https://github.com/Gaius-Augustus/BRAKER/tree/braker3) And most importantly they have created a container for BRAKER with all the dependancies so now BRAKER is easier to install!
+     * Gene annotation is the task of finding protein coding genes and predict their gene structure using predictive and extrinsic evidence (ex. reads).
+     * BRAKER is a pipeline with three inputs: Softmasked genome, Protein database and short read data. Uses both short read data and protein data and combines the data to make a more accurate gene calls.
+     * BRAKER3 is available on [Github](https://github.com/Gaius-Augustus/BRAKER/tree/braker3) And most importantly they have created a container for BRAKER with all the dependancies so now BRAKER is easier to install!
 
 4. __Stephane Rombauts: Object-Based Pan-Genome for Improving and Exploring Genomes__
 
-  * Why Pangenomes? A single genome is a limited amount of data where a PanGenome is the sum of many genomes from the same species.
-  * Object-based (eg. nodes) is anything that is anchored to a genomic region. The database uses [Vaticle Schema](https://docs.vaticle.com/docs/schema/overview)
-  * Object-based pan-genomes defined syntentic regions and gene families and look closely at regions of interest.  System is focusing at the higher level. The database is still under development - visualization is also development.
-  * SoyBase and LegumeInfo have a very similar Object-Based Pan-Genome Viewer called Genome Context Viewer (GCV)
-     - [SoyBase GCV](https://gcv.soybase.org/instructions)
-     - [LegumeInfo GCV](https://gcv.legumeinfo.org/gcv2/instructions)
+      * Why Pangenomes? A single genome is a limited amount of data where a PanGenome is the sum of many genomes from the same species.
+      * Object-based (eg. nodes) is anything that is anchored to a genomic region. The database uses [Vaticle Schema](https://docs.vaticle.com/docs/schema/overview)
+     * Object-based pan-genomes defined syntentic regions and gene families and look closely at regions of interest.  System is focusing at the higher level. The database is still under development - visualization is also development.
+     * SoyBase and LegumeInfo have a very similar Object-Based Pan-Genome Viewer called Genome Context Viewer (GCV)
+      - [SoyBase GCV](https://gcv.soybase.org/instructions)
+      - [LegumeInfo GCV](https://gcv.legumeinfo.org/gcv2/instructions)
 
 5. __Roderic Guigo: Rapid Annotation of Protein-Coding Genes across the Tree of Life__
 
-  * A large fraction of transcriptional output is isoforms and rationle to develop methods to predict a single protein coding isoform per gene. Develop the program called geneid in 2018. [Research paper](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpbi.56)
-  * Now developing a new program called GeneidX. [GitHub](https://github.com/guigolab/geneidx)
-  * GeneidX provides a fast annotation of the protein-coding genes in an eukaryotic genome taking as input the genome assembly and the taxonomic ID of the species to annotate.
-  * GeneidX is easy to install using either Nextflow or Docker. Coming soon: a geneid [online portal](https://genome.crg.cat/geneid-predictions/#/)
+     * A large fraction of transcriptional output is isoforms and rationle to develop methods to predict a single protein coding isoform per gene. Develop the program called geneid in 2018. [Research paper](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpbi.56)
+     * Now developing a new program called GeneidX. [GitHub](https://github.com/guigolab/geneidx)
+     * GeneidX provides a fast annotation of the protein-coding genes in an eukaryotic genome taking as input the genome assembly and the taxonomic ID of the species to annotate.
+     * GeneidX is easy to install using either Nextflow or Docker. Coming soon: a geneid [online portal](https://genome.crg.cat/geneid-predictions/#/)
  
 
 ### __Beyond the National Plant Genome Initiative workshop__
 
 1. __Introduction__
-  * The Beyond the National Plant Genome Initiative workshop is a forum for the plant genomics & genetics research community to reconnect & meet with representatives from the NSF, DOE, & USDA. 
-  * NSF has a great way to search & find funding opportunities. [website](https://beta.nsf.gov/funding/opportunities)
-  * Highly recommend that you send a one page summary about the project/idea & do not be afraid to contact the program officer (PO). The PO wants to help you get funded.
-  * The DOE has a number of funding opportunities. DOE does support basic science as long it fits in the mission within DOE. [website](https://science.osti.gov/ber/Funding-Opportunities)
-  * USDA-NIFA has a number of Program Officers (PO) attending and are here to talk to you and help fund your research.  NIFA has 82 different funding lines including ARFI, education, food science. [website](https://www.nifa.usda.gov/grants/programs)
+     * The Beyond the National Plant Genome Initiative workshop is a forum for the plant genomics & genetics research community to reconnect & meet with representatives from the NSF, DOE, & USDA. 
+     * NSF has a great way to search & find funding opportunities. [website](https://beta.nsf.gov/funding/opportunities)
+     * Highly recommend that you send a one page summary about the project/idea & do not be afraid to contact the program officer (PO). The PO wants to help you get funded.
+     * The DOE has a number of funding opportunities. DOE does support basic science as long it fits in the mission within DOE. [website](https://science.osti.gov/ber/Funding-Opportunities)
+     * USDA-NIFA has a number of Program Officers (PO) attending and are here to talk to you and help fund your research.  NIFA has 82 different funding lines including ARFI, education, food science. [website](https://www.nifa.usda.gov/grants/programs)
 
 2. __Richard Flavell: International germplasm improvement in the International Wheat Yield Partnership (IWYP)__
 
