@@ -1,17 +1,97 @@
 PAG30: Jan 13-18, 2023
 ======================
 
-### [My Notes](##My-Notes)
+## [My Notes](##My-Notes)
 
 ## [Notes that other people took](##Notes-that-other-people-took)
 
 ## My Notes
 
+## January 14, 2023
+
+## __Funding Opportunities Panel__
+
 ## January 15, 2023
 
+## __Computational Gene Discovery workshop__
 
+1. Mihaela Pertea: Efficient and Robust Transcriptome Reconstruction from Hybrid RNA-Seq Data
 
-Jan Leach: Embracing the Complexity of the Phytobiome
+  * StringTie2 using hybrid (long and short read) data helps clear up messy gene calls.
+  * Hybrid data with using the annotation guide helps with the genome annotation. Simulated data shows that even using a little bit of isoseq is helpful for gene calls. [Research paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009730)
+ 
+----
+
+2. TB: GeneMark-ETP
+  * GeneMark-ETP Prediction of gene transcripts and modeling training using the high confidence genes for final gene prediction. Gene clustering is a new feature of [GeneMark-ETP](https://t.co/vN28juc0yO)
+  * GeneMark-ETP is fully automatic and utilize serval sources for prediction [Research paper](https://academic.oup.com/nargab/article/2/2/lqaa026/5836691?login=false)
+
+----
+
+3. Lars Gabriel: BRAKER3
+  * Gene annotation is the task of finding protein coding genes and predict their gene structure using predictive and extrinsic evidence (ex. reads).
+  * BRAKER is a pipeline with three inputs: Softmasked genome, Protein database and short read data. Uses both short read data and protein data and combines the data to make a more accurate gene calls.
+  * BRAKER3 is available on [Github](https://github.com/Gaius-Augustus/BRAKER/tree/braker3) And most importantly they have created a container for BRAKER with all the dependancies so now BRAKER is easier to install!
+
+----
+
+4. Stephane Rombauts: Object-Based Pan-Genome for Improving and Exploring Genomes
+
+  * Why Pangenomes? A single genome is a limited amount of data where a PanGenome is the sum of many genomes from the same species.
+  * Object-based (eg. nodes) is anything that is anchored to a genomic region. The database uses [Vaticle Schema](https://docs.vaticle.com/docs/schema/overview)
+  * Object-based pan-genomes defined syntentic regions and gene families and look closely at regions of interest.  System is focusing at the higher level. The database is still under development - visualization is also development.
+  * SoyBase and LegumeInfo have a very similar Object-Based Pan-Genome Viewer called Genome Context Viewer (GCV)
+     - [SoyBase GCV](https://gcv.soybase.org/instructions)
+     - [LegumeInfo GCV](https://gcv.legumeinfo.org/gcv2/instructions)
+ 
+----
+
+5. Roderic Guigo: Rapid Annotation of Protein-Coding Genes across the Tree of Life
+
+  * A large fraction of transcriptional output is isoforms and rationle to develop methods to predict a single protein coding isoform per gene. Develop the program called geneid in 2018. [Research paper](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpbi.56)
+  * Now developing a new program called GeneidX. [GitHub](https://github.com/guigolab/geneidx)
+  * GeneidX provides a fast annotation of the protein-coding genes in an eukaryotic genome taking as input the genome assembly and the taxonomic ID of the species to annotate.
+  * GeneidX is easy to install using either Nextflow or Docker. Coming soon: a geneid [online portal](https://genome.crg.cat/geneid-predictions/#/)
+ 
+
+## __Beyond the National Plant Genome Initiative workshop__
+
+1. Introduction:
+  * The Beyond the National Plant Genome Initiative workshop is a forum for the plant genomics & genetics research community to reconnect & meet with representatives from the NSF, DOE, & USDA. 
+  * NSF has a great way to search & find funding opportunities. [website](https://beta.nsf.gov/funding/opportunities)
+  * Highly recommend that you send a one page summary about the project/idea & do not be afraid to contact the program officer (PO). The PO wants to help you get funded.
+  * The DOE has a number of funding opportunities. DOE does support basic science as long it fits in the mission within DOE. [website](https://science.osti.gov/ber/Funding-Opportunities)
+  * USDA-NIFA has a number of Program Officers (PO) attending and are here to talk to you and help fund your research.  NIFA has 82 different funding lines including ARFI, education, food science. [website](https://www.nifa.usda.gov/grants/programs)
+
+----
+
+2. Richard Flavell: International germplasm improvement in the International Wheat Yield Partnership (IWYP)
+
+  * [Website](iwyp.org)
+  * Hubs around the world drive technologies from state-of-the-art discovery into applied breeding programs, public and private. Hubs are interconnected to develop both Spring and Winter wheat.
+  * The IWYP program has brought: 
+     - More multi-disciplinary research w/ new ideas
+     - Discoveries integrated w/ other discoveries around the world
+  * But what is next? 
+     - Scale of complexities w/ genomes and phenotype is vital for plant breeding 
+     - Need more Digital support tools
+     - Need to design and create new alleles/markers to make plant breeding more efficient
+  * The purpose of crop and animal research is not to keep the data in a journal article. It is essential that the science get out to the public and private breeding programs. Getting the science out to the people is important.
+
+--------
+
+3. Ed Buckler:  Wrangling Food System Nitrogen
+
+  * We need to start thinking about the entire system. Where is the nitrogen and Green House Gas (GHG) coming from in agriculture?
+  * What to do about the atmospheric nitrogen? We have a leaky pipeline.
+  * Developed the CERCA Circular Economy that Reimagines Corn Agriculture [website](https://maizegenetics.net)
+  * CERCA strategies: Breeding for more nitrogen efficiency in root systems
+  * Nutrient recycling: 
+      - Season shifting it would be great if one day corn could be tolerant enough to be similar to winter wheat
+      - Need to develop novel nitrogen  application system
+  * Carbon Farming webinar from last year [slides](https://arpa-e.energy.gov/sites/default/files/2A_Panel_EB_KH_AK_SB_0.pdf)
+
+4. Jan Leach: Embracing the Complexity of the Phytobiome
 
   * There are some troublesome trends in agriculture and we scientists need to think of novel ways to help food security. Interactions with the Phytobiome are dynamic and complex. [Research paper](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.17319)
   * To exploit the phytobiome when need to understand they system: How do plants sense stress? How do the microbes sense stress? Studies have shown that plants "cry for help" in response to stress and microbes come to the rescue. [Research paper](https://www.nature.com/articles/s41477-021-00967-1)
