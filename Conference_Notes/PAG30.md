@@ -7,6 +7,42 @@ PAG30: Jan 13-18, 2023
 
 ## My Notes
 
+## January 15, 2023
+
+
+Jan Leach: Embracing the Complexity of the Phytobiome
+
+  * There are some troublesome trends in agriculture and we scientists need to think of novel ways to help food security. Interactions with the Phytobiome are dynamic and complex. [Research paper](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.17319)
+
+
+## __Manage your Big Data Workshop__
+
+1. Fiona McCarthy: 
+
+----
+
+2. Matheus Krause
+  * Scanning PDF files from the USDA from 1941-2022 with more than 80 years of #Soybean trail data 
+  * Challenges faced in data curation and cleaning: (1) Converting PDF files to standard format was difficult because of non-standard formats across the 80 years; (2) Lots of Typos, genotypes and location names; (3) One soybean line had 8 different names; (4) Please don’t use special characters in the files.
+  * [SoyURT package](https://cran.r-project.org/web/packages/SoyURT/SoyURT.pdf) and the data is available on [SoyBase.org](SoyBase.org)
+
+----
+
+3. Chris Elsik: FAANGMine
+  * [FAANGMine](https://faangmine.elsiklab.missouri.edu)
+
+----
+
+4.  Alenka Hafner: Data reuse and how it can benefit researchers
+
+  * Data reuse helps in preventing information/data loss, expanding scientific knowledge and benefits for authors. And now showing how data reuse is helpful in her current research. [Research paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7518187/)
+  
+-----
+
+5. Monica Poelchau: Big Data Lifecycle in the USDA-ARS
+
+  * Provides long term storage for data and code and [Ag Data Commons](https://data.nal.usda.gov) provides a DOI for ease of finding.
+
 ## January 16, 2023
 
 ### __Tools and Resources workshop__
