@@ -6,9 +6,9 @@ Table of contents
   * [My Notes](##My-Notes)
   * [Notes that other people took](##Notes-that-other-people-took)
 
-## My Notes
+### My Notes
 
-## **January 14, 2023**
+### **January 14, 2023**
 
 ## __Funding Opportunities Panel__
 
