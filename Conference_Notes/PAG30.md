@@ -30,7 +30,11 @@ Jan Leach: Embracing the Complexity of the Phytobiome
 
 2. Matheus Krause
   * Scanning PDF files from the USDA from 1941-2022 with more than 80 years of #Soybean trail data 
-  * Challenges faced in data curation and cleaning: (1) Converting PDF files to standard format was difficult because of non-standard formats across the 80 years; (2) Lots of Typos, genotypes and location names; (3) One soybean line had 8 different names; (4) Please don’t use special characters in the files.
+  * Challenges faced in data curation and cleaning:
+     - Converting PDF files to standard format was difficult because of non-standard formats across the 80 years
+     - Lots of Typos, genotypes and location names
+     - One soybean line had 8 different names
+     - Please don’t use special characters in the files.
   * [SoyURT package](https://cran.r-project.org/web/packages/SoyURT/SoyURT.pdf) and the data is available on [SoyBase.org](SoyBase.org)
 
 ----
@@ -83,7 +87,10 @@ Jan Leach: Embracing the Complexity of the Phytobiome
 
   * "Online tools are becoming ever more important to biology, but financial support is unstable." Databases are important but finding is hard to come by and maintain. [Research paper](https://www.nature.com/articles/489019a)
   * Manual curation is important to maintain to high quality database like [RepBase](girinst.org/repbase/). Increase in data, increase in users, increase in downloads *BUT* decrease in funding. Now uses a fixed subscription model similar to TAIR to maintain database funding.
-  * Challenges encountered: Keep eyes on unauthorized redistribution of data (often outdated data); Often users need only a subset of RepBase; Manual curation needs time and expertise and can't keep up with the pace of data generation.
+  * Challenges encountered
+     - Keep eyes on unauthorized redistribution of data (often outdated data)
+     - Often users need only a subset of RepBase
+     - Manual curation needs time and expertise and can't keep up with the pace of data generation.
   * Efforts to face these challenges:RepBase is working towards the "gold standard" for repeat datasets; Increase the number of entries in RepBase.
 
 ----
@@ -99,14 +106,20 @@ Jan Leach: Embracing the Complexity of the Phytobiome
 
   * CyVerse helps with every step of the data collection, data management, and data analysis. Using other resources including iRODs, Jupyter, and R. CyVerse also workshops for education.
   * After federal grant funding decreased for CyVerse - Got help from many but the main take home message was: You can not do it and Focus on your main mission.
-  * Three pathways for funding: "Powered by CyVerse" Partnered with others; CyVerse Professional Services; [CyVerse subscriptions](https://cyverse.org/subscribe)
+  * Three pathways for funding:
+     - "Powered by CyVerse" Partnered with others
+     - CyVerse Professional Services
+     - [CyVerse subscriptions](https://cyverse.org/subscribe)
 
 ------
 
 4. Dorrie Main: Sustainability Efforts of NRSP-10 Crop Community Databases and Tripal Project
 
   * [NRSP-10](nrsp10.org) is another major project that has been funded by federal funding for 10 years but now funding is decreasing and need to think about other sources of funding. NRSP10 is also getting funding from the industry and commodity groups.
-  * Why are Crop Community Database important: Provide access to integrated, curated data and analysis tools; Promote data sharing and community building; Enable genomics, genetics and breeding.
+  * Why are Crop Community Database important
+     - Provide access to integrated, curated data and analysis tools
+     - Promote data sharing and community building
+     - Enable genomics, genetics and breeding.
   * As genomic, genetic and breeding data generation grew exponentially year by year and so does the number of people that use the database. 
  
 
@@ -135,9 +148,15 @@ Jan Leach: Embracing the Complexity of the Phytobiome
 3. Aaron Lorenz: Developing Resources to advance genetic prediction soybean 
 
   * Using North Uniform Soybean Trail (NUST) data and it is available on [SoyBase.org](SoyBase.og) and [SoybeanBase] (https://soybeanbase.breedinginsight.net). 
-  * For breeders Genomic selection (GS) can fast forward the breeding pipeline. GS saves: 4 years saved in parent section; 2 years saved in variety releases; Saves over $70,000 in land use.
+  * For breeders Genomic selection (GS) can fast forward the breeding pipeline. GS saves
+     - 4 years saved in parent section
+     - 2 years saved in variety releases
+     - Saves over $70,000 in land use.
   * Genomic prediction accuracy in SoyNAM variey from 20% to 50%. Genomic selection performs as effectively as phenotypic selection for increasing seed yield in soybean. [Research paper](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/tpg2.20285)
-  * Challenges for academic breeding programs: Cost of genotyping; Turnaround time and Human resources (PostDocs and Graduate students + Temporary workers); Risk of failure. 
+  * Challenges for academic breeding programs
+     - Cost of genotyping
+     - Turnaround time and Human resources (PostDocs and Graduate students + Temporary workers)
+     - Risk of failure. 
   * Efforts to help the challenges -> Database development and training material
   
   * [SOYGEN](https://ncsrp.com/wp-content/uploads/2022/02/NCSRP-2021-Genetic-Gain.pdf): Science Optimized Yield Gains across ENvironments
@@ -158,9 +177,9 @@ Jan Leach: Embracing the Complexity of the Phytobiome
 
   * Introgression and/or improvements combination to increase desired traits. Embracing the BigData and integrative approach for breeding (alleles, functional markers, Germplasm) Focusing on soybean germplasm diversity
   * Multiple studies still finding seed quality QTLs: 
-  1. POWR1 (Protein, Oil, Weight, Regulator 1) is a domestication gene pleiotropically regulating seed quality and yield in soybean [Research paper](https://www.nature.com/articles/s41467-022-30314-7)
-  2. Fine mapping and cloning of the major seed protein quantitative trait loci on soybean chromosome 20 [Research paper](https://pubmed.ncbi.nlm.nih.gov/34978122/)
-  3. QTL for GmSWEET39 for oil and protein improvement [Research paper](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009114)
+     - POWR1 (Protein, Oil, Weight, Regulator 1) is a domestication gene pleiotropically regulating seed quality and yield in soybean [Research paper](https://www.nature.com/articles/s41467-022-30314-7)
+     - Fine mapping and cloning of the major seed protein quantitative trait loci on soybean chromosome 20 [Research paper](https://pubmed.ncbi.nlm.nih.gov/34978122/)
+     - QTL for GmSWEET39 for oil and protein improvement [Research paper](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009114)
 
 
 ## Notes that other people took
