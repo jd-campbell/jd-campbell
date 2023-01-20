@@ -15,13 +15,22 @@ __Soybean Genomics Workshop__
   * Using North Uniform Soybean Trail (NUST) data and it is available on [SoyBase.org](SoyBase.og) and [SoybeanBase] (https://soybeanbase.breedinginsight.net). 
   * For breeders Genomic selection (GS) can fast forward the breeding pipeline. GS saves: 4 years saved in parent section; 2 years saved in variety releases; Saves over $70,000 in land use.
   * Genomic prediction accuracy in SoyNAM variey from 20% to 50%. Genomic selection performs as effectively as phenotypic selection for increasing seed yield in soybean. [Research paper](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/tpg2.20285)
-  * Challenges for academic breeding programs: Cost of genotyping; Turnaround time and Human resources (PostDocs and Graduate students - Temporary workers); Risk of failure
-  * Efforts to help the challenges:  Database development and training material
+  * Challenges for academic breeding programs: 
+  
+   Cost of genotyping
+   Turnaround time and Human resources (PostDocs and Graduate students + Temporary workers)
+   Risk of failure
+   
+  * Efforts to help the challenges -> Database development and training material
+  
+---
 
 4. Katy Martin Rainey: Genetic Improvement of Complex Traits in Soybean: Insights into Selection for Yield, Maturity and Seed Quality
 
   * Using the well documented public #soybean resources at [SoyBase.org](SoyBase.org) including the SoySNP50K and SoyNAM.
   * Impact of increased sucrose content on overall seed quality in soybean Increasing sucrose content would likely lead to protein content sacrifices. Paper in review/No pre-print.
+
+---
 
 5. Yong-Qiang (Charles) An:  Toward Understanding Molecular Basis of Seed Protein and Oil in Soybean Domestication and Improvement through an Integrative Data Driven Approach
 
