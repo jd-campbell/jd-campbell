@@ -13,7 +13,8 @@ Table of contents
 
 ### __Funding Opportunities Panel__
 
-
+  * NEW NSF initiative: Growing Research Access for Nationally Transformative Equity and Diversity (GRANTED)
+       * GRANTED focuses on addressing systemic barriers within the nation’s research enterprise by improving research support and service
 
 ### __Computational Gene Discovery workshop__
 
@@ -227,3 +228,14 @@ Table of contents
 
 
 ## Notes that other people took
+
+### __Bruno Contreras Moreira__ (Research focus: Computational biology and plant genomics)
+
+   * [Saturday, Jan 14, 2023](https://bioinfoperl.blogspot.com/2023/01/notes-on-plant-and-animal-genomes.html)
+   * [Sunday, Jan 15, 2023](https://bioinfoperl.blogspot.com/2023/01/notes-on-plant-and-animal-genomes2.html)
+   * [Monday, Jan 16, 2023](https://bioinfoperl.blogspot.com/2023/01/notes-on-plant-and-animal-genomes3.html.html)
+   * [Tuesday, Jan 17, 2023](https://bioinfoperl.blogspot.com/2023/01/notes-on-plant-and-animal-genomes4.html)
+   * [Wednesday, Jan 18, 2023](https://bioinfoperl.blogspot.com/2023/01/notes-on-plant-and-animal-genomes5.html)
+
+
+     
