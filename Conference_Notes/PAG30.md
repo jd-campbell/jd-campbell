@@ -89,9 +89,9 @@ Table of contents
     * To exploit the phytobiome when need to understand they system: How do plants sense stress? How do the microbes sense stress? Studies have shown that plants "cry for help" in response to stress and microbes come to the rescue. [Research paper](https://www.nature.com/articles/s41477-021-00967-1)
     * How do we keep going forward?
         - We need to embrace the complexity! Continued advancement in technologies in culturing, prediction modeling and simulations and synthetic biology Need many tools to validate and evaluate at a large scale.
-  * Wish list:
-        - Move beyond correlation to causation - to get to the mechanism 
-        - Develop globally accepted standards for plant associate microbial #metadata
+    * Wish list:
+         - Move beyond correlation to causation - to get to the mechanism 
+         - Develop globally accepted standards for plant associate microbial #metadata
         - Train the next generation of scientist!
 
 
