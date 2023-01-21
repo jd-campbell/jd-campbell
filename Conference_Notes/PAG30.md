@@ -61,16 +61,16 @@ Table of contents
 
 2. __Richard Flavell: International germplasm improvement in the International Wheat Yield Partnership (IWYP)__
 
-    * [Website](iwyp.org)
-    * Hubs around the world drive technologies from state-of-the-art discovery into applied breeding programs, public and private. Hubs are interconnected to develop both Spring and Winter wheat.
-    * The IWYP program has brought: 
+     * [Website](iwyp.org)
+     * Hubs around the world drive technologies from state-of-the-art discovery into applied breeding programs, public and private. Hubs are interconnected to develop both Spring and Winter wheat.
+     * The IWYP program has brought: 
           - More multi-disciplinary research w/ new ideas
           - Discoveries integrated w/ other discoveries around the world
-    * But what is next? 
+     * But what is next? 
           - Scale of complexities w/ genomes and phenotype is vital for plant breeding 
           - Need more Digital support tools
           - Need to design and create new alleles/markers to make plant breeding more efficient
-    * The purpose of crop and animal research is not to keep the data in a journal article. It is essential that the science get out to the public and private breeding programs. Getting the science out to the people is important.
+     * The purpose of crop and animal research is not to keep the data in a journal article. It is essential that the science get out to the public and private breeding programs. Getting the science out to the people is important.
 
 3. __Ed Buckler: Wrangling Food System Nitrogen__
 
