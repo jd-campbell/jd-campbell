@@ -9,11 +9,11 @@ Table of contents
 
 ## My Notes
 
-### **January 14, 2023**
+
 
 ### __Funding Opportunities Panel__
 
-### **January 15, 2023**
+
 
 ### __Computational Gene Discovery workshop__
 
@@ -39,8 +39,8 @@ Table of contents
       * Object-based (eg. nodes) is anything that is anchored to a genomic region. The database uses [Vaticle Schema](https://docs.vaticle.com/docs/schema/overview)
      * Object-based pan-genomes defined syntentic regions and gene families and look closely at regions of interest.  System is focusing at the higher level. The database is still under development - visualization is also development.
      * SoyBase and LegumeInfo have a very similar Object-Based Pan-Genome Viewer called Genome Context Viewer (GCV)
-      - [SoyBase GCV](https://gcv.soybase.org/instructions)
-      - [LegumeInfo GCV](https://gcv.legumeinfo.org/gcv2/instructions)
+         - [SoyBase GCV](https://gcv.soybase.org/instructions)
+         - [LegumeInfo GCV](https://gcv.legumeinfo.org/gcv2/instructions)
 
 5. __Roderic Guigo: Rapid Annotation of Protein-Coding Genes across the Tree of Life__
 
