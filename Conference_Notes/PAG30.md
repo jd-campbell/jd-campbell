@@ -9,10 +9,20 @@ Table of contents
 
 ## My Notes
 
+### __Tripal Database Network and Initiatives__
+
 
 
 ### __Funding Opportunities Panel__
 
+  * The discussion panel strongly encourages early career researchers to contact the program managers (PM) if you have any questions about funding or grants. It is never too early to talk to a PM and find the best funding opportunities.
+  * Program Managers recommend that the researcher send a one page about the research project. With the one page document the PM will be able to find a program that fits the research better or can help fine tune the project idea for the program to get funding.
+  *  NSF and other Program Managers have Virtual office hours - [sign up for updates](https://debblog.nsfbio.com/office-hours/)
+       * Past virtual office hours including the power point slides  are available. For example: Virtual Office Hours Recap – [How to Write a Great Proposal](https://debblog.nsfbio.com/2022/10/27/10-17-22-virtual-office-hours-recap-how-to-write-a-great-proposal/)
+  * Developing & executing successful broader impacts 
+       * Advancing Research Impact in Society [(ARIS)](https://researchinsociety.org) is a great resource and ask for help or connect you to people for helping with broader impacts
+       * ARIS has a [Broader Impacts Toolkit](https://aris.marine.rutgers.edu/wizard/index.php)
+       * When developing a broader impact connect the community at the beginning of the proposal you will have a greater impact.
   * NEW NSF initiative: Growing Research Access for Nationally Transformative Equity and Diversity (GRANTED)
        * GRANTED focuses on addressing systemic barriers within the nation’s research enterprise by improving research support and service
 
