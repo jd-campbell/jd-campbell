@@ -3,9 +3,10 @@
 
 ### Table of contents
 
-  * [My Notes](##My-Notes)
+  * [My Notes](#My-Notes)
      - [Funding Opportunites Panel](###Funding-Opportunites-Panel)
-  * [Notes that other people took](##Notes-that-other-people-took)
+  * [Notes that other people took](#Notes-that-other-people-took)
+     - [Notes done by Bruno Contreras Moreira(###-Bruno-Contreras-Moreira)
 
 # My Notes
 
