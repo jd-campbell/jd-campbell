@@ -1,13 +1,13 @@
-PAG30: Jan 13-18, 2023
+# PAG30: Jan 13-18, 2023
 ======================
 
-Table of contents
+### Table of contents
 
   * [My Notes](##My-Notes)
      - [Funding Opportunites Panel](###Funding-Opportunites-Panel)
   * [Notes that other people took](##Notes-that-other-people-took)
 
-## My Notes
+# My Notes
 
 ### __Tripal Database Network and Initiatives__
 
