@@ -109,9 +109,18 @@
 
 ### __Manage your Big Data Workshop__
 
-1. __Fiona McCarthy__
+1. __Fiona McCarthy: 8 simple rules for how NOT to manage your data__
+     * Rule 1: Not all data is created equal
+     * Rule 2: file.unicorn and other adventures
+     * Rule 3: Context is less important than data
+     * Rule 4: Short term hires for long term solutions
+     * Rule 5: One minor thing to finish the project
+     * Rule 6: It's complicated
+     * Rule 7: It's the destination, not the journey
+     * Rule 8: Keeping your plan a secret
 
-2. __Matheus Krause__
+2. __Matheus Krause__ 
+    * [Link to presentation](https://mdkrause.github.io//teaching/)
     * Scanning PDF files from the USDA from 1941-2022 with more than 80 years of #Soybean trail data 
     * Challenges faced in data curation and cleaning:
         - Converting PDF files to standard format was difficult because of non-standard formats across the 80 years
@@ -119,6 +128,7 @@
         - One soybean line had 8 different names
         - Please don’t use special characters in the files.
     * [SoyURT package](https://cran.r-project.org/web/packages/SoyURT/SoyURT.pdf) and the data is available on [SoyBase.org](SoyBase.org)
+    * Pre-print of manuscript is [available](https://www.biorxiv.org/content/10.1101/2022.04.11.487885v5)
 
 3. __Chris Elsik: FAANGMine__
      * [FAANGMine](https://faangmine.elsiklab.missouri.edu)
@@ -238,9 +248,9 @@
         - QTL for GmSWEET39 for oil and protein improvement [Research paper](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009114)
 
 
-## Notes that other people took
+# Notes that other people took
 
-### __Bruno Contreras Moreira__ 
+## __Bruno Contreras Moreira__ 
 (Research focus: Computational biology and plant genomics)
 
    * [Saturday, Jan 14, 2023](https://bioinfoperl.blogspot.com/2023/01/notes-on-plant-and-animal-genomes.html)
@@ -250,13 +260,13 @@
    * [Wednesday, Jan 18, 2023](https://bioinfoperl.blogspot.com/2023/01/notes-on-plant-and-animal-genomes5.html)
 
 
-### __Hyunoh Lee__
+## __Hyunoh Lee__
 (Research focus: Computational biology, legumes, disease traits)
 
-##################
-##### Legume #####
-##################
-## The circadian clock in the control of flowering regulation in soybean
+
+### __Legume__
+
+__The circadian clock in the control of flowering regulation in soybean__
 - How to change gene regulatory network level
 - Approach 
     Network discovery based on RNA-seq: change various temperature against G. max and G. soja
@@ -274,7 +284,7 @@
 - Poster
     PE0324 and PO0331
 
-## Breeding Legumes for diverse cropping system
+__Breeding Legumes for diverse cropping system__
 - Diversity in time
     within growing season
     Multi-year rotation
@@ -293,7 +303,7 @@
 - Red clover inter seeding
 - Alfalfa perennial grain system
 
-## Opportunities to implement genomics-assisted breeding in a common bean breeding program
+__Opportunities to implement genomics-assisted breeding in a common bean breeding program__
 - common bead / dry bean / dry edible bean
     dry bean has complex evolutionary and domestication history
     has two gene pools
@@ -316,7 +326,7 @@
 - Earlier colonization by USDA126 is a carbon drag
 - Autoregulation of nodulation pathway in soybean
 
-## Prospects for increasing rates of genetic gain in pulse crops
+__Prospects for increasing rates of genetic gain in pulse crops__
 - Field pea, dry pea, chickpea, lentil
 - Pulse crops and soybean are evolutionary related but have distinct lineages (warm-season, cool-season legume)
 - Pulse crops were mainly produced at North Dakota and Montana 
@@ -326,10 +336,10 @@
 - Are the HTP indices biologically meaningful? => Yes,
 - HTP applied to predict new breeding line (resistance line)
 
-#################################
-##### Comparative genomics #####
-#################################
-## Exploitation of multiple facets of comparative genomics in the study of non-model crops
+
+### __Comparative genomics__
+
+__Exploitation of multiple facets of comparative genomics in the study of non-model crops__
 - Previous: RFLP, crop circles (1995 pag meeting)
 - flowering time QTL in switchgrass (PvHd1 = ortholog Hd1 in rice)
 - CER6, wax QTL
@@ -337,13 +347,13 @@
     PWL1, PWL2 genes cl control resistance
 - Discovery of conservation of gene orders => major milestone
 
-## Evolving at a rapid Clp: using correlated rate of evolution in plant genomes to detect genetic interactions - Dan Sloan
+__Evolving at a rapid Clp: using correlated rate of evolution in plant genomes to detect genetic interactions - Dan Sloan__
 - The plastid caseinolytic protease (Clp) complex
 - Coevolution produces correlations
 - Correlated accelerations in Angiosperm Clp neclear genes
 - Identification of novel Clp complex interaction based on protein-protein interaction
 
-## Evolution of the small but metabolically mighty pretty spurge genome
+__Evolution of the small but metabolically mighty pretty spurge genome__
 - Euphorbia peplus (biofuels, rubber, medicines)
 - HiFi, Hi-C, 267.2 Mbp, 25,471 genes
 - E. peplus has 8 Chr, E. lathyris has 10
@@ -356,7 +366,7 @@
     Two clusters are contiguous
 - eFP expression browser
 
-## The barley pangenome
+__The barley pangenome__
 - Previous: 2012, 2017
 - Hulless barley: SV at the Nud locus
 - Pangenome is consist of core, shell, cloud
@@ -377,24 +387,24 @@
 - 2n = 2x = 14, domesticated around 1000 years ago
 - introgression account for around 1% of the bread wheat genome
 
-####################################################################
-##### Crop evolution & genomics future agricultural production #####
-####################################################################
-## Unraveling the genetic provides insights into the early history of domesticated wheat (Muru)
+
+### __Crop evolution & genomics future agricultural production__
+
+__Unraveling the genetic provides insights into the early history of domesticated wheat (Muru)__
 - optimize of cost-effective genotyping-by-sequencing (GBS)
 - up to 2,000 accession -> Genebank genomics & pangenomics
 
-##############################
-##### Cool season legume #####
-##############################
-## Running wild: Assembly and comparative analysis of Lentil and wild relative genome
+
+### __Cool season legume__
+
+__Running wild: Assembly and comparative analysis of Lentil and wild relative genome__
 - ~50x ONT, Hi-C, genetic map
 - Improved assembly
     ~25x HiFi, 1635 contigs, about 3.8Gbp
 - Chr 7
     break linkage
 
-## innovative genotyping of the large & repetitive lentil genome
+__Innovative genotyping of the large & repetitive lentil genome__
 - Characterization of large genetic resource of four food-legume
 - GBS - [iGENOMX]- WGS
 - iGenomx 
@@ -403,13 +413,13 @@
 - Depletion of repeats by CRSPR/Cas9
 - Increased number of identified variants upon Cas9 repeat-depletion
 
-## Uncovering the genetic basis of domestication traits in Cicer hybrid using nested association mapping
+__Uncovering the genetic basis of domestication traits in Cicer hybrid using nested association mapping__
 - Prolonged selection has shrunk the genetic diversity in cultivated chickpeas by ~98%
 - 8 continuous and 8 categorical traits
     Traits show strong pairwise correlation
 - GWAS model: farmCPU
 
-## Multiple genome assemblies of Cicer wild species provides insights into chickpea pangenome dynamics and their evolution
+__Multiple genome assemblies of Cicer wild species provides insights into chickpea pangenome dynamics and their evolution__
 - 2n=16
 - Chickpea pangenome reported at 2021 (Varshney et al.)
 - Toward genus level pangenome and super-pangenome
@@ -422,11 +432,10 @@
 - CicerPanDB
 - Improvement in the graph-genome approach will help to integrate more variations from different species
 
-########################################
-##### Computational gene discovery #####
-########################################
 
-## End to End learning of evolutionary models to find coding regions in genome alignments (ClaMSA)
+### __Computational gene discovery__
+
+__End to End learning of evolutionary models to find coding regions in genome alignments (ClaMSA)__
 - Phylogenic model
     continues tune markov chain
     case 1: PAML (codeml)
@@ -442,7 +451,7 @@
     => accuracy largely attributable to a evolutionary model
 - mext set[: discover new coding sequences, AUGUSTU-CGP connection, evolutionary signal finding
 
-## Efficient and robust transcriptome reconstruction from hybrid RNA-seq data
+__Efficient and robust transcriptome reconstruction from hybrid RNA-seq data__
 - previous: cufflinks, stringtie, stringtie2 (supported long-read)
 - Limitations of long-read RNA-seq
     much higher error rates
@@ -454,7 +463,7 @@
     corrects errors
 - Hybrid assembly is much better
 
-## GenMark ETP: automatic gene finding in eukaryotic genome
+__GenMark ETP: automatic gene finding in eukaryotic genome__
 - RNA evidence protein evidence, intrinsic evidence (ab initio)
 - training of a genomic GHMM model
     high confidence (HC) gene -> training -> map to genome -> low GC / medium GC / high GC -> predict genes in the non-HC
@@ -464,7 +473,7 @@
 - positive
     fully automatic, simultaneously utilize several sources of extrinsic evidence, more accurate
 
-## The BRAKER3 genome annotation pipeline
+__The BRAKER3 genome annotation pipeline__
 - evidence: nucleotide, RNA-seq reads, homologous proteins
 - previous: BRAKER
     prediction tools: genemark, augustus
@@ -478,7 +487,7 @@
     BRAKER 1 and 2 are depending on available extrinsic evidence, executes one of three pipelines
     BRAKER3: much higher accuracy
 
-## Object-based pangenome for improving exploring genomes
+__Object-based pangenome for improving exploring genomes__
 - object-graph
 - database input: node. links (relative chromosome position, synteny..)
 - bubbles
@@ -486,10 +495,10 @@
 - conclusion
     build hairball (graph database) -> visualize properly -> investigate areas of interest -> detailed view vcf
 
-##########################
-##### Abiotic stress #####
-##########################
-## genomic and epigenomic novelties for adaptive traits in rice
+
+### __Abiotic stress__
+
+__genomic and epigenomic novelties for adaptive traits in rice__
 -transgressive segregation is a source of phenotypic novelties through natural evolution and plant breeding
 - fundamental questions
     Genome shock
@@ -500,7 +509,7 @@
 - FL510 is more uniform and even distribution of TAD
 => epigenome appears to have an important role in transgressive segregation
 
-## Gene-to-filed characterization of WLT1 in waterlogging tolerance and yiel protection in soybean
+__Gene-to-filed characterization of WLT1 in waterlogging tolerance and yiel protection in soybean__
 - waterlogging stress: saturation of water in soil
 - two QTLs were detected on a cross of S99-2281 x PI 561271
     qWT_Gm03 is major QTL
@@ -516,7 +525,7 @@
     improves yield
     helps nutrient uptake
 
-## Drought adaptation in chickpea: the mystery of "QTL-hotspot" explained
+__Drought adaptation in chickpea: the mystery of "QTL-hotspot" explained__
 - deeper roots increase water uptake
 - QTL-hotspot regions were identified through MABC
     12% increase in yield
@@ -525,7 +534,7 @@
     CaTSJT1, CaARD1, CaTIFY4b
 - QTL hotspots improve yield performance (seed weight and root architecture)) under rainfed field condition
 
-## Identification of genotypic variation for diurnal and development stage-specific transpiration pattern under drought stress conditions in wheat
+__Identification of genotypic variation for diurnal and development stage-specific transpiration pattern under drought stress conditions in wheat__
 - Drought tolerance is context-dependent
 - VPD (vapor pressure deficit)
     driving force on transpiration
@@ -534,7 +543,7 @@
 - Transpiration response to high VPD and VPD related to other traits
 - delayed senescence in genotypes with late but strong restriction of transpiration rate -> Higher TGW
 
-## Designer crops for future environments
+__Designer crops for future environments__
 - speed up the development of climate resilient crops
     use genome editing
 - Engineering roots to improve water and nutrient uptake
@@ -547,26 +556,26 @@
     UAV canopy phenotyping
 => we need to fine-tune trait expression
 
-##############################################
-##### Polyploidy across the tree of life #####
-##############################################
-## Co-occurrence of diploid, tetraploid genotypes and their SNP alignments in the Chrysanthemum arcticum species complex
+
+### __Polyploidy across the tree of life__
+
+__Co-occurrence of diploid, tetraploid genotypes and their SNP alignments in the Chrysanthemum arcticum species complex__
 - C. arcticum, C. a. subsp. arcticum, C. a. subsp. polare
 - Reference: C. nankigense (2n=2x=18)
 - In case of C. a., 119/234 (about 50%) genotypes did not fall within diploid~pentaploid
 - C. a. complex has a rege of ploidy
 
-## Pangenomic variation across autotetraploidy Vaccinium corymbosum (blueberry)
+__Pangenomic variation across autotetraploidy Vaccinium corymbosum (blueberry)__
 - 12 northern + 12 southern + 12 cranberry -> assembly -> annotation -> progressive Cactus whole genome alignment + orthofinder2
 - Blueberries
     Ploidy (3~4 copies)
 - W85
     Diploid
 
-##################################
-##### Domestication genomics #####
-##################################
-## The evolutionary history of Phaseolus vulgaris as revealed by chloroplast and nuclear genome
+
+### __Domestication genomics__
+
+__The evolutionary history of Phaseolus vulgaris as revealed by chloroplast and nuclear genome__
 - 2n=2x=22
 - Pool
     Mesoamerican, north Peru & Ecuador, Andean
@@ -580,17 +589,17 @@
     assembled 37 cp genomes
 - P. vulgaris is Mesoamerican origin
 
-##########################################################
-##### Next generation genome annotation and analysis #####
-##########################################################
-## Using representative gene sets to validate gene models in legume annotations (Fabaceae)
+
+### __Next generation genome annotation and analysis__
+
+__Using representative gene sets to validate gene models in legume annotations (Fabaceae)__
 - conserved gene sets are used for validate genome
     regardless if genome is under-studied
 - Even high quality assembly, there are annotation errors
 
-#########################################################################
-##### Genomics for sustainable agriculture and global food security #####
-#########################################################################
+
+### __Genomics for sustainable agriculture and global food security__
+
 - climate change, over-population
 - Green revolution: increased cereal yield 241 %
 - Global fertilizer consumption 
@@ -611,7 +620,7 @@
 - Future
     Haplotype-based breeding, Spatial transcriptomics
 
-Affinity optimizing enhancer variants disrupt development and drive disease
+__Affinity optimizing enhancer variants disrupt development and drive disease__
 
 - Enhancers act as switches to turn transcription on and off thus directing the program of development
 - Single bp changes within enhancers have dramatic effects
@@ -628,7 +637,7 @@ Affinity optimizing enhancer variants disrupt development and drive disease
 
 
 
-Actionable genomics at scale
+__Actionable genomics at scale__
 
 1. HiFi sequencing
     Revio
